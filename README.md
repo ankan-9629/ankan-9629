@@ -1,5 +1,16 @@
-## Hi there 👋
+# Hey there! ![Image](https://github.com/user-attachments/assets/0d83cc59-6d4c-453b-b6c0-b029c2619504)
 
+I'm Ankan, a mern stack + AI & ML Enthutiast based in India.
+
+I design and build everything I can imagine.
+
+## Fun Facts:
+
+- I like chai
+- I chill by working on projects and solving puzzles
+- I like adventures
+- Solo Leveling is my favourite anime
+- Hobbies: anime, calisthenics, building things
 <!--
 **ankan-9629/ankan-9629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
